@@ -4,3 +4,4 @@ whoami
 groups- display owners groups
 chown changes ownership of the file hell to betty
 touch creates new file
+chmod 700 adds executable permissions
