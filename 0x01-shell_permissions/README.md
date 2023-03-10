@@ -13,3 +13,4 @@ chgrp change current group to new one if the user is the owner of the current gr
 chmod -r operates files and directories recursively and adds new ownership
 chown vincent:staff _hello changes ownership recursivly to hello
 chown --applies only when the owner is guillaume
+telnet command to connect to the Towel.blinkenlights.nl server, which streams the StarWars IV episode in ASCII art format to the terminal. When you run this script, the episode will start playing in the terminal
