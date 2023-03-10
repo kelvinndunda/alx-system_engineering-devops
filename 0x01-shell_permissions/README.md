@@ -11,3 +11,4 @@ chmod 007 gives executable permissions for the users and no permission for the o
 chmod 753 gives read write and executable permissions to owner,read and executable permissions to groups and write and executable permisions to the other users
 chgrp change current group to new one if the user is the owner of the current group
 chmod -r operates files and directories recursively and adds new ownership
+chown vincent:staff _hello changes ownership recursivly to hello
