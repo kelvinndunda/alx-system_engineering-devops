@@ -12,3 +12,4 @@ chmod 753 gives read write and executable permissions to owner,read and executab
 chgrp change current group to new one if the user is the owner of the current group
 chmod -r operates files and directories recursively and adds new ownership
 chown vincent:staff _hello changes ownership recursivly to hello
+chown --applies only when the owner is guillaume
