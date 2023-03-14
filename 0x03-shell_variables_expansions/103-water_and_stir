@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "obase=bestchol; $(echo "$WATER" | tr 'ewatrate' '0123456') + $(echo "$STIR" | tr 'titr' '0123')" | bc
